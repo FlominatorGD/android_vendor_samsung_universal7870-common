@@ -100,7 +100,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal7870-common/proprietary/vendor/bin/hw/android.hardware.drm@1.2-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.2-service.widevine \
     vendor/samsung/universal7870-common/proprietary/vendor/lib64/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLES_mali.so \
     vendor/samsung/universal7870-common/proprietary/vendor/lib64/hw/camera.universal7870.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.universal7870.so \
-    vendor/samsung/universal7870-common/proprietary/vendor/lib64/hw/thermal.universal7870.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.universal7870.so
+    vendor/samsung/universal7870-common/proprietary/vendor/lib64/hw/thermal.universal7870.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.universal7870.so \
     vendor/samsung/universal7870-common/proprietary/vendor/lib64/libfloatingfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfloatingfeature.so \
     vendor/samsung/universal7870-common/proprietary/vendor/lib64/libreference-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libreference-ril.so \
     vendor/samsung/universal7870-common/proprietary/vendor/lib64/libril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril.so \
